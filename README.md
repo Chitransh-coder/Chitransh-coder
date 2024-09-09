@@ -4,6 +4,9 @@
 
 <h3 align="center">"Trying to be" a machine learning engineer.</h3>
 
+I am currently a student at VIT Bhopal University pursuing Bachelors in Computer Science with specialization in AI & ML.
+I am always excited to learn about advances in Artificial Intelligence and try to solve real-world problems using the capabilities of it.
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **TensorFlow, sklearn or pandas.**
